@@ -2,8 +2,8 @@
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?duration=03&font=Lalezar&size=30&color=00FFFF&center=true&vCenter=true&width=440&lines=+Shell+Backdoor+Bypass" /></h1>
   <br />
 <p align="center">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/beruangsalju/shell-backdoor?color=black&style=flat">
-<img src="https://img.shields.io/github/forks/beruangsalju/shell-backdoor?color=black&style=flat">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/FakhriGanz/Shell_Bypass?color=black&style=flat">
+<img src="https://img.shields.io/github/forks/FakhriGanz/Shell_Bypass?color=black&style=flat">
 <img src="https://img.shields.io/badge/creator%20-omest-black?style=flat">
 <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/beruangsalju/shell-backdoor&style=flat&countColor=%black"> <br>
 SHELL BACKDOOR DOWNLOADER BY OMEST
