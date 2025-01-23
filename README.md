@@ -16,7 +16,7 @@ Date : 20 January 2025 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 <div align="center"> 
 
 # <a href="https://www.mediafire.com/file/882sddgbo0rv8q6/anonghost-bypass_shell.php/file">AnonGhost Bypass</a>
-<img src="https://imgur.com/ZBxBGXu.png" alt="beruangsalju profile">
+<img src="https://media-hosting.imagekit.io//5a2b568d3ae54822/Screenshot%202025-01-23%20152133.png?Expires=1832228855&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=r8ATarQosAfq3wM0Gec85JxqXx7vjtNLKNxiEDfE~BVIQnlCvdDM4jZ6VDgnslwoWGrfgrYpWF0dItb0e6VDgkjoYOd8KHBHo~QTQAo70cxvS-WJ56BIVHW-XzVx8LMBj~8WICkmI2-XJR-lp3oAO93JViZU2rFcBcF~RPB1Cv7xNzjI98~fezDTGomagt8H3m17WaYeOH8EjEpAx1w86ljYjoBfrPi2sWTcRKmWUBzlm1TF36ZMWL5I44K10rO1XhM0qWK9jC54dMVfUergnF4g8lg6FCdVjg4AcQiY46UCOFq5L1IsuVgOHFNxzks9FdxOq7jDne3LSxWbfu8JWA__" alt="beruangsalju profile">
 
 # <a href="https://www.mediafire.com/file/0jwr4qowq1h1ep5/anonghost_bypass.php/file">AnonGhost Bypass ( Uploader )</a>
 <img src="https://i.imgur.com/OuYdN84.png" alt="beruangsalju profile">
