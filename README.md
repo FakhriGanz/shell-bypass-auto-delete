@@ -63,14 +63,29 @@ Date : 20 January 2025 [![Windows Badge](https://img.shields.io/badge/Windows-bl
 # <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">RibelCyberShell Bypass</a>
 <img src="https://media-hosting.imagekit.io//d83870b037ed4a3c/Screenshot%202025-01-23%20161938.png?Expires=1832232083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=OLcsTCT3FLuqfTR98FMZFMw6tTFU1x1lRdcLR9uI1f3fln2qnkBe6jYGEhIw2SJ0Ihsiq2tJ59VAQtTKfz7Y-jGqlsnpToyl7qqyiYFyKtN9VhXkirDRkOeW2WXuC4OEnZHJUXOLU7K0P70-hz~nTK52pXzFdnSQ24P1yQDcRxKS4sMS4sMDtyE7PlAd4P48NRkrS~2lvJilJ5B6aAJWj9KO5USc3G~N9~fq1Wn4b1Cz1OmbU7B79y3XRiUtT75RDm9Xy6a~ZzsgyEau0h6BX1Fi9MR3GGZNr6V2DGarIEN3oDQI-57Qctvi0A3uUbB~NgiNVu9DJa~l7G9naZuMgA__" alt="beruangsalju profile">
 
-# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">403 Webshell</a>
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">403 Webshell (yon3zu)</a>
 <img src="https://media-hosting.imagekit.io//a8b441676c4b4ef1/Screenshot%202025-01-23%20161955.png?Expires=1832232083&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=nSkpP0eR7zwMLl--fUCDviLh8xSoMp9uffsD2mLZjOebhkgo9hkXU~Yr22BBeTqNC0-P7RYiI5~6~aeKuHd4L5UjtdR2sHIKU1T5KpiTg45cxRi7-pDsc1iIdbUQ37Q6gsayBjyJgG7uVRO~FZxrlmPQnS1vgTZot1GZ5TOxvEE2ib5LlfU9UoLHmeZB-LmWkvITXGiIE5ByuFnUQ6~oERrB31E~wOEhjkE7ToxX9qqDHS8YKOBqc3l-ew3wKd~3d9cVSfAM8rHZrbqCO8ZQNXteTRlXTDXFuDO3rvfMNdKNcI0KttghqI9Ql~Lxn~dk9dAD56Wxc8Mwkam4LjuTXw__" alt="beruangsalju profile">
 
-# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
-<img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">Shell Bypass Berantakan</a>
+<img src="https://media-hosting.imagekit.io//13c01cf863a74f51/Screenshot%202025-01-23%20164053.png?Expires=1832233513&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sFIKkP2l0fMHUT1sWQJvUdNYaKFezf7jAOLZQ28NFqJ~ACeEm2PWsrR-a2jxE~8Zhd~ZWLRF14sWYS2FchlNe6uAkF0QaMxSdnHfIOCa-x9kJhpzWlpO2Sa9lpfakVtenLPK3NZSqRIueuuMcB5pUchR6u-P28~iX~V55BGWiOByuJe9WuL1GBi8z3IUrNdpO3oMjui0htRZBxlFBUkS5UMmJhXdqY02o4Dw-eUomP6taZlJV10r72ugFQgG7BkGJazqGsFUKogtY7i-DUsCW4t5y7EjX6nxpypfQRS90o5eChlBRbuN77nJ5y9ZRGnFnAc~ndz39nsQG6d97poofg__" alt="beruangsalju profile">
 
-# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
-<img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">SSI Shell (Sakura Cyber)</a>
+<img src="https://media-hosting.imagekit.io//050f138cf68b424f/Screenshot%202025-01-23%20164103.png?Expires=1832233513&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=SpWLorTV1ObkGoxdiXFWgQb1SxxU4xhMU2pPKqjnQOZojWo9Wtdkm2b5XiaorIFWBd0hS40byPmA57vpCUkTdtXVmqo0N-BaAaRuo2qTJYQPvHvj-q1vlG1WAPA9HG0XtSs9hFjs~dh7JalRL1-U9CeO41qIaWzKBWHTxalbSSpCe7IFPJuf5561JZ671~io8Is~CtFWJStSFhGuTRyQzrXUlefDVmyY1nqAUr7aMFvAEv5Mo3a7BBDKflju1vy6NxBXY-im7yWYicwtSAoUxXn~0LCAc-t54yQ2rqYNQ5Zd0jkXUnNUn-h9yOmnXBk0LwufAlKf6gSwoN4StytTtQ__" alt="beruangsalju profile">
 
-# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">AK-74</a>
-<img src="https://i.imgur.com/BuzRpD8.png" alt="beruangsalju profile">
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">Shell Bypass Auto Delete</a>
+<img src="https://media-hosting.imagekit.io//51bd25d8aa3d49f8/Screenshot%202025-01-23%20164115.png?Expires=1832233513&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=c5sA0Kd5-pD2sU-tb-8~qHIGcrvXKx11i2U0hW9wJLaj5I4GIX-2vIkqfggy~EFySa~mHyyCTuQmR54lZAyT76IiU3jCMfxoUqBCgECnbEzAelHHjvSbm~52ERGA4GJO9Lj~meke3Ko7fG9-BiToQXsNCLyuwsxFfRsPCSDQNVb7~ZQKfNmXDMBECI3Dk8yetYjk3CLD0caBAfMw4FM7dTK~ApZmYB-sCmwnKJ55st6IwzfEtcgJ~PimHU6m9lLAp6Zun5OAq9XjjkF-l3N1gD3J4gIdOHsUZvy3LwuwvEAIE4hlxbOuseAd~7RJNRmkyiB4O-eiYQNR4UtJjGbW7w__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">KCT MINI SHELL 403</a>
+<img src="https://media-hosting.imagekit.io//9514813882c44ea5/Screenshot%202025-01-23%20164912.png?Expires=1832233933&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=K88rBgMmT9-ov7bY~CYWr5Rc9K5-WAEr5eNinXlZYcwfs0AvwxWcy3yxelH69NmHxO0-uAbnW-KVwDGCWvwhq7GEMSiYkNYLpdeH5BrVWWObfEMc6toL1m6~gBtSrJGImrvWLq432j33UXugFrT8Qdax4XjvQCi9q15~ySWhDWqA3d~BUBhaoigs2WGwZGP435PqK1aIpD38Dl2wg0xblh3JPbdZ5bZFX68F4sql02KTnFZUqWi1RKCnmhxtAtvdLDSdzeusCf5EyabmFTg1dO57IAsCOUzU9u8Ev~u~9CXj0hHZ7o~cKDTc6q0uLMb7rypUAEbbeX9yH1uxjMrHRA__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">ev4nXploit Shell Bypass</a>
+<img src="https://media-hosting.imagekit.io//8b7f2a6b4b834545/Screenshot%202025-01-23%20165103.png?Expires=1832233933&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=NBk4bkIkoHTt5rBd52RWp4xtgaJuAD4~4i-KAIlOCEtG8twDdUBLk4bg5MdW9kYCtL06P6eZDGztu99-1SUlYd8ZzMA5Pg1m6IjRrWU~IthwjzY3MUOr8dRH46084b-oeJ9BaYmY9~T~~vxbN7xWMAZmtwiIZLrT~7VlFqaqw6iDu8Qkqh1t9EheySrvT6y~mtN6ncorNslBdT7Efg7FCmGeheCUmALGM5i4Ii5tfE-KHYC5684g6SRHuO1iEtGmzSpq3LYJkWwsmExhF5XoBdKnH29T3pZwa1ElnUOCWCerbBG35f50CQ-zEaxpmw9UnRAV5ql34tAa0xMBgmiQ1Q__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">D7net Shell</a>
+<img src="https://media-hosting.imagekit.io//f642f46560af47fc/Screenshot%202025-01-23%20165113.png?Expires=1832233933&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=HyonF5uS6t6vQEamPTe3rJ1cWT7AGkRghES2FO6RiskL7otJfmPgkDVggo-Mhw1R-RCHhRtyC1UZKq85g98bMflGYKjGfJoifl7BnFHQ7Xj4RFgJehSkEDX5f-4pD8XGXCbPni5mqniWe9YPb1tX53MsbyfFP2gev8e572M9k8X4Zkny~l2WM1~FICVcwHQdyBanZ5UwuNFL4gv6eRbWGImGSdOxpNuX~qWdRidjgqGp9zGT6edI6fEwenUxc~9aBWaD8FExVLS6feT5wIGjN~mLd1wkrXgJzcgJVB7aphVRlN9LXDOMzatx0ZgDoKLU-DJ5the9RIUWP2aq2msadw__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">File Manager Bypass</a>
+<img src="https://media-hosting.imagekit.io//60e13ed7a2ab44c5/Screenshot%202025-01-23%20165122.png?Expires=1832233933&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=xIkWHhM-bJ6pcuORiYNhKtInDwM2b258Z8H1xlH2uAb~hyChMKhoktcFre5MI~I6ay731a0K0GZwEd-CDmjOSz0FUNPebFuByIgbQJ8k9xETh0A5shw-oJIq-GPW9GcLCQUjDuDKOUUSIYtCQGdtBkzPKNRppn4lob8PIoBG4rkvVBAE6l0PnRTWWcDmakrxt5r1mhFQbcJcPxPiwTxTOXAGNbVct-rApF9L2~AOsVEfnaXYZN3jH4K0LSHl3EpC~oU3hFxpTl7QrmDzlGNCS8~bwSVIpUR8xJLEXS~1bX7qgxeTZSVN7SZwH388IR-jm01zb~SssACs-6ToH~81Aw__" alt="beruangsalju profile">
+
+# <a href="https://www.mediafire.com/file/1lin6ue84z29ud4/ak74.php/file">Shell Anime</a>
+<img src="https://media-hosting.imagekit.io//aea1f2bcf6504286/Screenshot%202025-01-23%20165132.png?Expires=1832233933&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=PQAM7pDdxu~L4K6dduuHWqta9xdJdEvsfJiUb-jIC-PjyXHKB6akKpBG5a4Ks10pasrpw80r4KXmd9HuOMetIHz0tkw68D1rhi2QN-av925yfeMbpH7lNT5h0GtVF67TywV6VtGCCC4zvduAk3Xc1VpQiLzOVTcHFf0c-hP2NTebE6W~rIYEpLUJoPRHjITf48icp8CDjkVK9zsLHnHzBosk-WYixZYFynm6ZRxhECF5R~JnQTPiP~xuH6Q~rjKXnXcxFcLFopTGOlanDPfdXEgCh58JipbkfFgYd6HmJRVcNt9runfk-9jOr0UzpNphdq~bu~TAWQpYvNkdRlVgkA__" alt="beruangsalju profile">
